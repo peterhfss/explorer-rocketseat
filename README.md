@@ -10,9 +10,11 @@ O objetivo desse repositório é registrar meu aprendizado durante os estudos no
 
 ## Desafios e Projetos
 
-### Stage 01
+### Stage 02
 
 [Desafio Fase 01](./stage-02/desafios/desafio-fase-01/)
+
+[Desafio Fase 02](./stage-02/desafios/desafio-fase-02/)
 
 [Projeto 01](./stage-02/projeto-01/)
 
