@@ -1,0 +1,91 @@
+:root{
+  --purple:#3F3D56;
+  --pink: #EE24FF;
+  --gray: #828282;
+  --light-white: #ECEFF2;
+}
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+#main{
+  width: 626px;
+  margin: 64px auto;
+}
+
+#main #image1{
+  margin-bottom: 2rem;
+}
+
+#main h1{
+  font-size:2rem;
+  font-family: "Dosis", sans-serif;
+  color: var(--purple);
+  font-weight: 500;
+  margin-bottom: 1rem ;
+}
+
+#main h1 span{
+  color: var(--pink);
+  font-weight: 700;
+}
+
+p{
+  font-size: 0.938rem;
+  line-height: 22px;
+  color: var(--gray);
+  font-weight: 400;
+}
+
+p:nth-child(3){
+  width: 540px;
+  margin: 0 auto 32px;
+}
+
+p:nth-child(4){
+ margin-bottom: 64px;
+}
+
+p span{
+  font-weight: 700;
+  color: var(--purple);
+}
+
+#footer{
+  width: 1024px;
+  margin: 64px auto;
+}
+
+.line{
+  border: 1px solid var(--light-white);
+  width: 391px;
+  margin: 0 auto 1rem;
+}
+
+#footer a{
+  line-height: 148%;
+  font-size: 0.938rem;
+  color: var(--purple);
+  text-decoration: none;
+  font-weight: 700;
+  margin-bottom: 42px;
+}
+
+#footer a:hover{
+  color: var(--pink);
+}
+
+#footer a:nth-child(3){
+  margin: 0 42px 0 42px;
+}
+
+#wave{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
