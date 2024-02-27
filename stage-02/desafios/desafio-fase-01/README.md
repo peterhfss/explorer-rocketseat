@@ -1,6 +1,6 @@
-# Corrigindo bugs (02/02) **👀**
+# Corrigindo bugs (01/02) **👀**
 
-![Screenshot_1](/stage-02/desafios/desafio-fase-03/images/preview.jpg)
+![Screenshot_1](/stage-02/desafios/desafio-fase-01/images/preview.jpg)
 
 ## 💻 Sobre o desafio
 
