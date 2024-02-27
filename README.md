@@ -16,5 +16,4 @@ O objetivo desse repositório é registrar meu aprendizado durante os estudos no
 
 [Desafio Fase 02](./stage-02/desafios/desafio-fase-02/)
 
-[Projeto 01](./stage-02/projeto-01/)
-
+[Desafio Fase 03](./stage-02/desafios/desafio-fase-03/)
